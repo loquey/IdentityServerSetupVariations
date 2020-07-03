@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5c0b615d-f32a-4e5d-a2cd-1337f489068f</UserSecretsId>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="IdentityServer4" Version="4.0.0" />
+    <PackageReference Include="microsoft.aspnetcore.authentication.facebook" Version="3.1.5" />
+
+    <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+  </ItemGroup>
+</Project>

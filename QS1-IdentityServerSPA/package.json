@@ -1,0 +1,11 @@
+{
+  "name": "QS1-IdentityServerSPA",
+  "version": "1.0.0",
+  "description": "Indentity server SPA",
+  "main": "index.js",
+  "author": "Titilope Asare",
+  "license": "MIT",
+  "dependencies": {
+    "oidc-client": "^1.10.1"
+  }
+}
